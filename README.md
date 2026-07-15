@@ -146,3 +146,5 @@ curl -i "http://localhost:8080/api/transactions/{id}/convert?currency=EUR"
 
 - Atualização da documentação do projeto.
 - Preparação para futuras melhorias de autenticação.
+
+minha alteracao
