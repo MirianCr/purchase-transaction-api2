@@ -1,5 +1,7 @@
 # Purchase Transaction API
 
+testando bug novo 
+
 Spring Boot microservice to:
 
 - store purchase transactions in USD;
